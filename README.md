@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romel Acopra</h1>
 <h3 align="center">Aspiring full-stack developer</h3>
-<img align="right" width="400" alt="Coding" src="/img/Coding.gif" />
-
-<p align="left"> <a href="https://twitter.com/the_name_romel" target="blank"><img src="https://img.shields.io/twitter/follow/the_name_romel?logo=twitter&style=for-the-badge" alt="the_name_romel" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript frameworks, back-end languages, and databases**
 
