@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romel Acopra</h1>
+<h1 align="center">Hi 👋, I'm Romel</h1>
 <h3 align="center">Aspiring full-stack developer</h3>
 
 - 🌱 I’m currently learning **Javascript frameworks, back-end languages, and databases**
